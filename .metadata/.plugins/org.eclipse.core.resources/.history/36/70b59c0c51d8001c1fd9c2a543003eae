@@ -1,0 +1,1 @@
+alter table entrega change id id bigint not null auto_increment;

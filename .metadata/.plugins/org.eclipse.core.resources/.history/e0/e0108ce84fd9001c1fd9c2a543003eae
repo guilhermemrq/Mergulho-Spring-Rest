@@ -1,0 +1,16 @@
+package com.algaworks.algalog.domain.service;
+
+import org.springframework.stereotype.Service;
+
+import com.algaworks.algalog.api.model.Ocorrencia;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@Service
+public class RegistroOcorrenciaService {
+	
+	public Ocorrencia registrar(Long entregaId, String descricao) {
+		
+	}
+}

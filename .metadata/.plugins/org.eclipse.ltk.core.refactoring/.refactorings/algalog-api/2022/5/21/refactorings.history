@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;algalog-api/src/main/resources/db/migration/V005__cria-tabela-ocorrencias&apos; to &apos;V005__cria-tabela-ocorrencias.sql&apos;" description="Rename resource &apos;V005__cria-tabela-ocorrencias&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/db/migration/V005__cria-tabela-ocorrencias" name="V005__cria-tabela-ocorrencias.sql" stamp="1653169320908" updateReferences="true"/>
+</session>
